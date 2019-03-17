@@ -1,0 +1,446 @@
+2019-03-17 16:14:37 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:14:37 werkzeug : * Restarting with stat
+2019-03-17 16:14:37 werkzeug : * Debugger is active!
+2019-03-17 16:14:37 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:14:39 root :Execution delay:	0.012805938720703125
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:14:39 root :Total delay:	0.015878915786743164
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:14:39 root :Network Transit delay:	4.1961669921875e-05
+2019-03-17 16:14:39 werkzeug :127.0.0.1 - - [17/Mar/2019 16:14:39] "GET / HTTP/1.1" 200 -
+2019-03-17 16:21:33 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:21:33 werkzeug : * Restarting with stat
+2019-03-17 16:21:33 werkzeug : * Debugger is active!
+2019-03-17 16:21:33 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:26:08 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:26:08 werkzeug : * Restarting with stat
+2019-03-17 16:26:08 werkzeug : * Debugger is active!
+2019-03-17 16:26:08 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:26:11 root :Execution delay:	0.012209892272949219
+2019-03-17 16:26:11 root :Total delay:	0.013804197311401367
+2019-03-17 16:26:11 root :Network Transit delay:	5.316734313964844e-05
+2019-03-17 16:26:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:11] "GET / HTTP/1.1" 200 -
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:26:15 root :Execution delay:	0.00014591217041015625
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:26:15 root :Total delay:	0.0008208751678466797
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:26:15 root :Network Transit delay:	1.71661376953125e-05
+2019-03-17 16:26:15 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:15] "GET / HTTP/1.1" 200 -
+2019-03-17 16:26:16 root :Execution delay:	0.010898828506469727
+2019-03-17 16:26:16 root :Total delay:	0.011166095733642578
+2019-03-17 16:26:16 root :Network Transit delay:	1.9073486328125e-05
+2019-03-17 16:26:16 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:16] "GET /login HTTP/1.1" 404 -
+2019-03-17 16:26:16 root :Execution delay:	0.00027489662170410156
+2019-03-17 16:26:16 root :Total delay:	0.0008809566497802734
+2019-03-17 16:26:16 root :Network Transit delay:	0.00012993812561035156
+2019-03-17 16:26:16 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:16] "GET /favicon.ico HTTP/1.1" 404 -
+2019-03-17 16:26:16 root :Execution delay:	0.0001430511474609375
+2019-03-17 16:26:16 root :Total delay:	0.0003809928894042969
+2019-03-17 16:26:16 root :Network Transit delay:	1.6927719116210938e-05
+2019-03-17 16:26:16 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:16] "GET /login HTTP/1.1" 404 -
+2019-03-17 16:26:21 root :Execution delay:	0.0002491474151611328
+2019-03-17 16:26:21 root :Total delay:	0.0006301403045654297
+2019-03-17 16:26:21 root :Network Transit delay:	3.0994415283203125e-05
+2019-03-17 16:26:21 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:21] "GET /login HTTP/1.1" 404 -
+2019-03-17 16:26:21 root :Execution delay:	4.696846008300781e-05
+2019-03-17 16:26:21 root :Total delay:	0.00037479400634765625
+2019-03-17 16:26:21 root :Network Transit delay:	1.811981201171875e-05
+2019-03-17 16:26:21 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:21] "GET /log HTTP/1.1" 200 -
+2019-03-17 16:26:29 root :Execution delay:	4.267692565917969e-05
+2019-03-17 16:26:29 root :Total delay:	0.0003829002380371094
+2019-03-17 16:26:29 root :Network Transit delay:	1.9073486328125e-05
+2019-03-17 16:26:29 werkzeug :127.0.0.1 - - [17/Mar/2019 16:26:29] "GET /log HTTP/1.1" 200 -
+2019-03-17 16:27:30 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:27:30 werkzeug : * Restarting with stat
+2019-03-17 16:27:31 werkzeug : * Debugger is active!
+2019-03-17 16:27:31 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:27:31 root :Execution delay:	0.014163970947265625
+2019-03-17 16:27:31 root :Total delay:	0.014859199523925781
+2019-03-17 16:27:31 root :Network Transit delay:	3.409385681152344e-05
+2019-03-17 16:27:31 werkzeug :127.0.0.1 - - [17/Mar/2019 16:27:31] "GET /favicon.ico HTTP/1.1" 404 -
+2019-03-17 16:29:32 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:29:32 werkzeug : * Restarting with stat
+2019-03-17 16:29:32 werkzeug : * Debugger is active!
+2019-03-17 16:29:32 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:29:34 root :Execution delay:	0.01928400993347168
+2019-03-17 16:29:34 root :Total delay:	0.019866943359375
+2019-03-17 16:29:34 root :Network Transit delay:	4.1961669921875e-05
+2019-03-17 16:29:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:34] "GET / HTTP/1.1" 200 -
+2019-03-17 16:29:36 root :Execution delay:	0.009540081024169922
+2019-03-17 16:29:36 root :Total delay:	0.009813070297241211
+2019-03-17 16:29:36 root :Network Transit delay:	1.6927719116210938e-05
+2019-03-17 16:29:36 werkzeug :127.0.0.1 - - [17/Mar/2019 16:29:36] "POST /log HTTP/1.1" 405 -
+2019-03-17 16:30:41 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:30:41 werkzeug : * Restarting with stat
+2019-03-17 16:30:41 werkzeug : * Debugger is active!
+2019-03-17 16:30:41 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:30:42 root :Execution delay:	0.01613903045654297
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:30:42 root :Total delay:	0.018738269805908203
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:30:42 root :Network Transit delay:	0.00019097328186035156
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET / HTTP/1.1" 200 -
+2019-03-17 16:30:42 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:42] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:30:46 root :Execution delay:	0.010687828063964844
+2019-03-17 16:30:46 root :Total delay:	0.010956764221191406
+2019-03-17 16:30:46 root :Network Transit delay:	2.384185791015625e-05
+2019-03-17 16:30:46 werkzeug :127.0.0.1 - - [17/Mar/2019 16:30:46] "POST /log HTTP/1.1" 405 -
+2019-03-17 16:31:12 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:31:12 werkzeug : * Restarting with stat
+2019-03-17 16:31:12 werkzeug : * Debugger is active!
+2019-03-17 16:31:12 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:31:14 root :Execution delay:	0.017845869064331055
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:31:14 root :Total delay:	0.01947307586669922
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:31:14 root :Network Transit delay:	7.414817810058594e-05
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET / HTTP/1.1" 200 -
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:31:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:14] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:31:16 root :Execution delay:	0.009624242782592773
+2019-03-17 16:31:16 root :Total delay:	0.00988006591796875
+2019-03-17 16:31:16 root :Network Transit delay:	1.5974044799804688e-05
+2019-03-17 16:31:16 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:16] "POST /log.html HTTP/1.1" 404 -
+2019-03-17 16:31:16 root :Execution delay:	0.0001690387725830078
+2019-03-17 16:31:16 root :Total delay:	0.0004811286926269531
+2019-03-17 16:31:16 root :Network Transit delay:	2.09808349609375e-05
+2019-03-17 16:31:16 werkzeug :127.0.0.1 - - [17/Mar/2019 16:31:16] "GET /favicon.ico HTTP/1.1" 404 -
+2019-03-17 16:33:21 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:33:21 werkzeug : * Restarting with stat
+2019-03-17 16:33:22 werkzeug : * Debugger is active!
+2019-03-17 16:33:22 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:33:23 root :Execution delay:	0.01394796371459961
+2019-03-17 16:33:23 root :Total delay:	0.014899015426635742
+2019-03-17 16:33:23 root :Network Transit delay:	6.389617919921875e-05
+2019-03-17 16:33:23 werkzeug :127.0.0.1 - - [17/Mar/2019 16:33:23] "GET / HTTP/1.1" 200 -
+2019-03-17 16:33:24 root :Execution delay:	0.012652158737182617
+2019-03-17 16:33:24 root :Total delay:	0.013073921203613281
+2019-03-17 16:33:24 root :Network Transit delay:	1.6927719116210938e-05
+2019-03-17 16:33:24 werkzeug :127.0.0.1 - - [17/Mar/2019 16:33:24] "POST /log HTTP/1.1" 405 -
+2019-03-17 16:33:53 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:33:53 werkzeug : * Restarting with stat
+2019-03-17 16:33:54 werkzeug : * Debugger is active!
+2019-03-17 16:33:54 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:33:55 root :Execution delay:	0.005137205123901367
+2019-03-17 16:33:55 root :Total delay:	0.005800008773803711
+2019-03-17 16:33:55 root :Network Transit delay:	3.790855407714844e-05
+2019-03-17 16:33:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:33:55] "GET / HTTP/1.1" 200 -
+2019-03-17 16:33:56 root :Execution delay:	0.01013493537902832
+2019-03-17 16:33:56 root :Total delay:	0.01040506362915039
+2019-03-17 16:33:56 root :Network Transit delay:	1.71661376953125e-05
+2019-03-17 16:33:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:33:56] "POST /log.html HTTP/1.1" 404 -
+2019-03-17 16:35:06 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:35:06 werkzeug : * Restarting with stat
+2019-03-17 16:35:07 werkzeug : * Debugger is active!
+2019-03-17 16:35:07 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:35:08 root :Execution delay:	0.010838031768798828
+2019-03-17 16:35:08 root :Total delay:	0.012123823165893555
+2019-03-17 16:35:08 root :Network Transit delay:	4.1961669921875e-05
+2019-03-17 16:35:08 werkzeug :127.0.0.1 - - [17/Mar/2019 16:35:08] "GET / HTTP/1.1" 200 -
+2019-03-17 16:35:10 root :Execution delay:	0.010269880294799805
+2019-03-17 16:35:10 root :Total delay:	0.010552167892456055
+2019-03-17 16:35:10 root :Network Transit delay:	1.9073486328125e-05
+2019-03-17 16:35:10 werkzeug :127.0.0.1 - - [17/Mar/2019 16:35:10] "POST /log.html HTTP/1.1" 404 -
+2019-03-17 16:35:44 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:35:44 werkzeug : * Restarting with stat
+2019-03-17 16:35:45 werkzeug : * Debugger is active!
+2019-03-17 16:35:45 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:35:46 root :Execution delay:	0.011049985885620117
+2019-03-17 16:35:46 root :Total delay:	0.012059926986694336
+2019-03-17 16:35:46 root :Network Transit delay:	7.390975952148438e-05
+2019-03-17 16:35:46 werkzeug :127.0.0.1 - - [17/Mar/2019 16:35:46] "GET / HTTP/1.1" 200 -
+2019-03-17 16:35:48 root :Execution delay:	5.888938903808594e-05
+2019-03-17 16:35:48 root :Total delay:	0.00038886070251464844
+2019-03-17 16:35:48 root :Network Transit delay:	2.09808349609375e-05
+2019-03-17 16:35:48 werkzeug :127.0.0.1 - - [17/Mar/2019 16:35:48] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:36:02 root :Execution delay:	0.00015282630920410156
+2019-03-17 16:36:02 root :Total delay:	0.0005848407745361328
+2019-03-17 16:36:02 root :Network Transit delay:	1.71661376953125e-05
+2019-03-17 16:36:02 werkzeug :127.0.0.1 - - [17/Mar/2019 16:36:02] "GET / HTTP/1.1" 200 -
+2019-03-17 16:36:03 root :Execution delay:	4.291534423828125e-05
+2019-03-17 16:36:03 root :Total delay:	0.0003199577331542969
+2019-03-17 16:36:03 root :Network Transit delay:	1.621246337890625e-05
+2019-03-17 16:36:03 werkzeug :127.0.0.1 - - [17/Mar/2019 16:36:03] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:36:20 root :Execution delay:	0.010694026947021484
+2019-03-17 16:36:20 root :Total delay:	0.011089801788330078
+2019-03-17 16:36:20 root :Network Transit delay:	1.5020370483398438e-05
+2019-03-17 16:36:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:36:20] "GET /log HTTP/1.1" 405 -
+2019-03-17 16:38:19 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:38:19 werkzeug : * Restarting with stat
+2019-03-17 16:38:19 werkzeug : * Debugger is active!
+2019-03-17 16:38:20 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:38:21 root :Execution delay:	0.010449886322021484
+2019-03-17 16:38:21 root :Total delay:	0.011149883270263672
+2019-03-17 16:38:21 root :Network Transit delay:	3.910064697265625e-05
+2019-03-17 16:38:21 werkzeug :127.0.0.1 - - [17/Mar/2019 16:38:21] "GET / HTTP/1.1" 200 -
+2019-03-17 16:38:34 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:38:34 werkzeug : * Restarting with stat
+2019-03-17 16:38:35 werkzeug : * Debugger is active!
+2019-03-17 16:38:35 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:38:36 root :Execution delay:	0.019877195358276367
+2019-03-17 16:38:36 root :Total delay:	0.02431797981262207
+2019-03-17 16:38:36 root :Network Transit delay:	5.2928924560546875e-05
+2019-03-17 16:38:36 werkzeug :127.0.0.1 - - [17/Mar/2019 16:38:36] "GET / HTTP/1.1" 200 -
+2019-03-17 16:40:00 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:40:00 werkzeug : * Restarting with stat
+2019-03-17 16:40:00 werkzeug : * Debugger is active!
+2019-03-17 16:40:00 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:40:01 root :Execution delay:	0.006067991256713867
+2019-03-17 16:40:01 root :Total delay:	0.008108139038085938
+2019-03-17 16:40:01 root :Network Transit delay:	0.00011610984802246094
+2019-03-17 16:40:01 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:01] "GET / HTTP/1.1" 200 -
+2019-03-17 16:40:20 root :Execution delay:	5.0067901611328125e-05
+2019-03-17 16:40:20 root :Total delay:	0.0003440380096435547
+2019-03-17 16:40:20 root :Network Transit delay:	1.8835067749023438e-05
+2019-03-17 16:40:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:20] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:40:34 root :Execution delay:	0.012620687484741211
+2019-03-17 16:40:34 root :Total delay:	0.013207197189331055
+2019-03-17 16:40:34 root :Network Transit delay:	6.031990051269531e-05
+2019-03-17 16:40:34 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:34] "GET /log HTTP/1.1" 405 -
+2019-03-17 16:40:37 root :Execution delay:	0.000141143798828125
+2019-03-17 16:40:37 root :Total delay:	0.0004317760467529297
+2019-03-17 16:40:37 root :Network Transit delay:	1.5735626220703125e-05
+2019-03-17 16:40:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:37] "GET /log HTTP/1.1" 405 -
+2019-03-17 16:40:44 root :Execution delay:	0.00014781951904296875
+2019-03-17 16:40:44 root :Total delay:	0.00038909912109375
+2019-03-17 16:40:44 root :Network Transit delay:	1.71661376953125e-05
+2019-03-17 16:40:44 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:44] "GET /log HTTP/1.1" 405 -
+2019-03-17 16:40:55 root :Execution delay:	4.8160552978515625e-05
+2019-03-17 16:40:55 root :Total delay:	0.0003731250762939453
+2019-03-17 16:40:55 root :Network Transit delay:	1.9073486328125e-05
+2019-03-17 16:40:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:40:55] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:44:20 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:44:20 werkzeug : * Restarting with stat
+2019-03-17 16:44:21 werkzeug : * Debugger is active!
+2019-03-17 16:44:21 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:44:28 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:44:28 werkzeug : * Restarting with stat
+2019-03-17 16:44:29 werkzeug : * Debugger is active!
+2019-03-17 16:44:29 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:44:51 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:44:51 werkzeug : * Restarting with stat
+2019-03-17 16:44:52 werkzeug : * Debugger is active!
+2019-03-17 16:44:52 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:45:02 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:45:02 werkzeug : * Restarting with stat
+2019-03-17 16:45:03 werkzeug : * Debugger is active!
+2019-03-17 16:45:03 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:45:15 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:45:15 werkzeug : * Restarting with stat
+2019-03-17 16:45:15 werkzeug : * Debugger is active!
+2019-03-17 16:45:15 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:45:23 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:45:23 werkzeug : * Restarting with stat
+2019-03-17 16:45:24 werkzeug : * Debugger is active!
+2019-03-17 16:45:24 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:45:33 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:45:33 werkzeug : * Restarting with stat
+2019-03-17 16:45:33 werkzeug : * Debugger is active!
+2019-03-17 16:45:33 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:46:11 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:46:11 werkzeug : * Restarting with stat
+2019-03-17 16:46:11 werkzeug : * Debugger is active!
+2019-03-17 16:46:11 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:48:09 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:48:09 werkzeug : * Restarting with stat
+2019-03-17 16:48:09 werkzeug : * Debugger is active!
+2019-03-17 16:48:09 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:48:11 root :Execution delay:	0.012616872787475586
+2019-03-17 16:48:11 root :Total delay:	0.013293981552124023
+2019-03-17 16:48:11 root :Network Transit delay:	6.318092346191406e-05
+2019-03-17 16:48:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:11] "GET / HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "POST /log HTTP/1.1" 500 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:48:12 werkzeug :127.0.0.1 - - [17/Mar/2019 16:48:12] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:49:36 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:49:36 werkzeug : * Restarting with stat
+2019-03-17 16:49:36 werkzeug : * Debugger is active!
+2019-03-17 16:49:36 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:49:47 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:49:47 werkzeug : * Restarting with stat
+2019-03-17 16:49:47 werkzeug : * Debugger is active!
+2019-03-17 16:49:47 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:49:48 root :Execution delay:	0.012184858322143555
+2019-03-17 16:49:48 root :Total delay:	0.012826919555664062
+2019-03-17 16:49:48 root :Network Transit delay:	4.410743713378906e-05
+2019-03-17 16:49:48 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:48] "GET / HTTP/1.1" 200 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "POST /log HTTP/1.1" 500 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:49:50 werkzeug :127.0.0.1 - - [17/Mar/2019 16:49:50] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:50:18 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:50:18 werkzeug : * Restarting with stat
+2019-03-17 16:50:18 werkzeug : * Debugger is active!
+2019-03-17 16:50:18 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:50:20 root :Execution delay:	0.010981082916259766
+2019-03-17 16:50:20 root :Total delay:	0.013432979583740234
+2019-03-17 16:50:20 root :Network Transit delay:	3.695487976074219e-05
+2019-03-17 16:50:20 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:20] "GET / HTTP/1.1" 200 -
+2019-03-17 16:50:21 root :Execution delay:	0.0031020641326904297
+2019-03-17 16:50:21 root :Total delay:	0.003348112106323242
+2019-03-17 16:50:21 root :Network Transit delay:	1.5974044799804688e-05
+2019-03-17 16:50:21 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:21] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:50:53 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:50:53 werkzeug : * Restarting with stat
+2019-03-17 16:50:53 werkzeug : * Debugger is active!
+2019-03-17 16:50:53 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:50:55 root :Execution delay:	0.01075887680053711
+2019-03-17 16:50:55 root :Total delay:	0.014035940170288086
+2019-03-17 16:50:55 root :Network Transit delay:	6.198883056640625e-05
+2019-03-17 16:50:55 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:55] "GET / HTTP/1.1" 200 -
+2019-03-17 16:50:56 root :Execution delay:	0.007153034210205078
+2019-03-17 16:50:56 root :Total delay:	0.007536888122558594
+2019-03-17 16:50:56 root :Network Transit delay:	2.6941299438476562e-05
+2019-03-17 16:50:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:50:56] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:52:35 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:52:35 werkzeug : * Restarting with stat
+2019-03-17 16:52:35 werkzeug : * Debugger is active!
+2019-03-17 16:52:35 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:52:37 root :Execution delay:	0.01666402816772461
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:52:37 root :Total delay:	0.021605968475341797
+2019-03-17 16:52:37 root :Network Transit delay:	0.00010895729064941406
+2019-03-17 16:52:37 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:37] "GET / HTTP/1.1" 200 -
+2019-03-17 16:52:38 werkzeug :127.0.0.1 - - [17/Mar/2019 16:52:38] "POST /log HTTP/1.1" 500 -
+2019-03-17 16:56:10 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:56:10 werkzeug : * Restarting with stat
+2019-03-17 16:56:10 werkzeug : * Debugger is active!
+2019-03-17 16:56:10 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:56:25 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:56:25 werkzeug : * Restarting with stat
+2019-03-17 16:56:26 werkzeug : * Debugger is active!
+2019-03-17 16:56:26 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:56:27 root :Execution delay:	0.011207818984985352
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:56:27 root :Total delay:	0.01240229606628418
+2019-03-17 16:56:27 root :Network Transit delay:	3.719329833984375e-05
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:56:27 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:27] "GET / HTTP/1.1" 200 -
+2019-03-17 16:56:28 root :Execution delay:	0.006561756134033203
+2019-03-17 16:56:28 root :Total delay:	0.007068157196044922
+2019-03-17 16:56:28 root :Network Transit delay:	3.0279159545898438e-05
+2019-03-17 16:56:28 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:28] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:56:55 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:56:55 werkzeug : * Restarting with stat
+2019-03-17 16:56:55 werkzeug : * Debugger is active!
+2019-03-17 16:56:55 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:56:56 root :Execution delay:	0.014657974243164062
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:56:56 root :Total delay:	0.01582789421081543
+2019-03-17 16:56:56 root :Network Transit delay:	6.198883056640625e-05
+2019-03-17 16:56:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:56] "GET / HTTP/1.1" 200 -
+2019-03-17 16:56:58 root :Execution delay:	0.0036852359771728516
+2019-03-17 16:56:58 root :Total delay:	0.0039730072021484375
+2019-03-17 16:56:58 root :Network Transit delay:	5.1975250244140625e-05
+2019-03-17 16:56:58 werkzeug :127.0.0.1 - - [17/Mar/2019 16:56:58] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:57:11 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:57:11 werkzeug : * Restarting with stat
+2019-03-17 16:57:11 werkzeug : * Debugger is active!
+2019-03-17 16:57:11 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET /log?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-03-17 16:57:13 root :Execution delay:	0.012797117233276367
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET /log?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-03-17 16:57:13 root :Total delay:	0.01415395736694336
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET /log?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET /log?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET /log?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-03-17 16:57:13 root :Network Transit delay:	8.0108642578125e-05
+2019-03-17 16:57:13 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:13] "GET / HTTP/1.1" 200 -
+2019-03-17 16:57:14 root :Execution delay:	0.005396366119384766
+2019-03-17 16:57:14 root :Total delay:	0.0056819915771484375
+2019-03-17 16:57:14 root :Network Transit delay:	1.7881393432617188e-05
+2019-03-17 16:57:14 werkzeug :127.0.0.1 - - [17/Mar/2019 16:57:14] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:58:30 werkzeug : * Detected change in '/Users/Ivy/Desktop/4145_A3-master/Experiment.py', reloading
+2019-03-17 16:58:30 werkzeug : * Restarting with stat
+2019-03-17 16:58:31 werkzeug : * Debugger is active!
+2019-03-17 16:58:31 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:58:50 werkzeug : * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2019-03-17 16:58:50 werkzeug : * Restarting with stat
+2019-03-17 16:58:51 werkzeug : * Debugger is active!
+2019-03-17 16:58:51 werkzeug : * Debugger PIN: 226-210-026
+2019-03-17 16:58:52 root :Execution delay:	0.010986804962158203
+2019-03-17 16:58:52 root :Total delay:	0.011590957641601562
+2019-03-17 16:58:52 root :Network Transit delay:	4.220008850097656e-05
+2019-03-17 16:58:52 werkzeug :127.0.0.1 - - [17/Mar/2019 16:58:52] "GET / HTTP/1.1" 200 -
+2019-03-17 16:58:53 root :Execution delay:	0.0006761550903320312
+2019-03-17 16:58:53 root :Total delay:	0.0010640621185302734
+2019-03-17 16:58:53 root :Network Transit delay:	7.677078247070312e-05
+2019-03-17 16:58:53 werkzeug :127.0.0.1 - - [17/Mar/2019 16:58:53] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:59:08 root :Execution delay:	0.0001590251922607422
+2019-03-17 16:59:08 root :Total delay:	0.00042176246643066406
+2019-03-17 16:59:08 root :Network Transit delay:	1.6689300537109375e-05
+2019-03-17 16:59:08 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:08] "GET / HTTP/1.1" 200 -
+2019-03-17 16:59:11 root :Execution delay:	0.0003230571746826172
+2019-03-17 16:59:11 root :Total delay:	0.00078582763671875
+2019-03-17 16:59:11 root :Network Transit delay:	1.6927719116210938e-05
+2019-03-17 16:59:11 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:11] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:59:24 root :Execution delay:	0.0003337860107421875
+2019-03-17 16:59:24 root :Total delay:	0.0009367465972900391
+2019-03-17 16:59:24 root :Network Transit delay:	3.1948089599609375e-05
+2019-03-17 16:59:24 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:24] "GET / HTTP/1.1" 200 -
+2019-03-17 16:59:36 root :Execution delay:	0.0001537799835205078
+2019-03-17 16:59:36 root :Total delay:	0.0004982948303222656
+2019-03-17 16:59:36 root :Network Transit delay:	1.9311904907226562e-05
+2019-03-17 16:59:36 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:36] "GET / HTTP/1.1" 200 -
+2019-03-17 16:59:43 root :Execution delay:	0.0003571510314941406
+2019-03-17 16:59:43 root :Total delay:	0.0013461112976074219
+2019-03-17 16:59:43 root :Network Transit delay:	1.6927719116210938e-05
+2019-03-17 16:59:43 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:43] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:59:52 root :Execution delay:	0.000225067138671875
+2019-03-17 16:59:52 root :Total delay:	0.00048470497131347656
+2019-03-17 16:59:52 root :Network Transit delay:	1.5735626220703125e-05
+2019-03-17 16:59:52 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:52] "POST /log HTTP/1.1" 200 -
+2019-03-17 16:59:56 root :Execution delay:	0.0001747608184814453
+2019-03-17 16:59:56 root :Total delay:	0.00046181678771972656
+2019-03-17 16:59:56 root :Network Transit delay:	2.002716064453125e-05
+2019-03-17 16:59:56 werkzeug :127.0.0.1 - - [17/Mar/2019 16:59:56] "GET / HTTP/1.1" 200 -
+2019-03-17 17:00:00 root :Execution delay:	0.00047278404235839844
+2019-03-17 17:00:00 root :Total delay:	0.0009169578552246094
+2019-03-17 17:00:00 root :Network Transit delay:	2.6226043701171875e-05
+2019-03-17 17:00:00 werkzeug :127.0.0.1 - - [17/Mar/2019 17:00:00] "POST /log HTTP/1.1" 200 -
